@@ -151,7 +151,8 @@ Note: the vectors in A2 are given in the task, not produced by a real model, so 
 
 Expected output: (a) all scores 0; (b) D2 = 0.6857, D1 = D3 = 0; cosines 0.9956 / 0.9977 / 0.4244.
 
-# PART B: the same two retrievers, from libraries
+---
+##PART B: the same two retrievers, from libraries##
 
 ## B1. BM25 (rank_bm25)
 
